@@ -1,4 +1,4 @@
-# pomodora
+# pomodoro
 
 Pomodora app with GUI, Python and Tkinter
 
